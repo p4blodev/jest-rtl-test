@@ -1,4 +1,9 @@
 import React from "react";
 export function Hello() {
-  return <div>Hello World!</div>;
+  return (
+    <>
+      <div>Hello World!</div>
+      <div>Hola Mundo!</div>
+    </>
+  );
 }
